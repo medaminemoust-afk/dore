@@ -1,0 +1,6 @@
+{
+  "name": "InnerSound",
+  "description": "InnerSound streams real music from YouTube Music: region-aware artist picks, playlists, favourites, offline library, synced lyrics and multi-language UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
